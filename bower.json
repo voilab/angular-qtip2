@@ -2,9 +2,18 @@
     "name": "voilab-angular-qtip",
     "version": "0.1.0",
     "main": "lib/voilab-angular-qtip.js",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "keywords": ["jquery", "angular", "qtip2", "tooltip"],
+    "authors": [
+        { "name": "Joel Poulin", "email": "joel@voilab.org", "homepage": "http://www.voilab.org" }
+    ],
     "dependencies": {
         "angular": "1.*",
-        "jquery": "1.9.*",
+        "jquery": "1.*",
         "qtip2": "2.*"
     }
 }
