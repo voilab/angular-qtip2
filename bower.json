@@ -1,0 +1,10 @@
+{
+    "name": "voilab-angular-qtip",
+    "version": "0.1.0",
+    "main": "lib/voilab-angular-qtip.js",
+    "dependencies": {
+        "angular": "1.*",
+        "jquery": "1.9.*",
+        "qtip2": "2.*"
+    }
+}
