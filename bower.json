@@ -12,8 +12,8 @@
         { "name": "Joel Poulin", "email": "joel@voilab.org", "homepage": "http://www.voilab.org" }
     ],
     "dependencies": {
-        "angular": "1.*",
-        "jquery": "1.*",
+        "angular": ">=1.4.0",
+        "jquery": ">=1.11.0",
         "qtip2": "2.*"
     }
 }
