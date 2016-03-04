@@ -1,6 +1,6 @@
 {
     "name": "voilab-angular-qtip",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "main": "lib/voilab-angular-qtip.js",
     "ignore": [
         "**/.*",
